@@ -75,10 +75,11 @@ The dataset includes:
 ---
 
 ## 🛠️ Tools & Technologies
-- Microsoft Power BI  
-- DAX (Data Analysis Expressions)  
-- Data Modeling  
-
+- Power BI (Data visualization & dashboarding)
+- Power Query (Data cleaning & transformation)
+- DAX (Data modeling & calculations)
+- Excel/CSV (Data source)
+- GitHub (Project hosting)
 ---
 
 ## 🧩 Data Model
